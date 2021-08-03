@@ -3,8 +3,8 @@
 ### Introdução
 <hr>
 
->* Descrição geral do que deve ser feito, quais dados devem ser minerados, de onde, etcs
->* O que os alunos devem alcançar? Pode ser em formato de perguntas, por exemplo
+Descrição geral do que deve ser feito, quais dados devem ser minerados, de onde, etcs
+O que os alunos devem alcançar? Pode ser em formato de perguntas, por exemplo
 
 ### Dataset
 <hr>
