@@ -20,7 +20,7 @@ O dataset é composto por três colunas:
 
 No [arquivo _zip_](data/tcc_sample.zip) disponibilizado no repositório, encontra-se o arquivo:
 
-* **Issues.json** - 150000 linhas x 3 colunas
+* **tcc_sample.csv** - 150000 linhas x 3 colunas
 
 Este arquivo contém a amostra do dataset que deverá ser utilizada para a realização desta tarefa.
 
