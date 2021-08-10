@@ -27,5 +27,5 @@ Deverá ser entregue o arquivo contendo o caderno do Jupyter Notebook (.ipynb) d
 ## Critérios de Avaliação
 <hr>
 
-1. Conformidade da solução desenvolvida com as etapas definidas no objetivo
-2. ...
+1. Conformidade da solução desenvolvida com o problema proposto
+2. Obediência às etapas definidas no objetivo
