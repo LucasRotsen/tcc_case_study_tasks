@@ -19,12 +19,12 @@ Para a realização desta tarefa, as seguintes etapas se fazem necessárias:
 3. Treinamento do modelo
 4. Avaliação do modelo
 
-## Entregáveis
+### Entregáveis
 <hr>
 
 Deverá ser entregue o arquivo contendo o caderno do Jupyter Notebook (.ipynb) desenvolvido, ou um link para acessá-lo através do GitHub. O resultado da execução de cada uma das células deverá estar disponível para visualização.
 
-## Critérios de Avaliação
+### Critérios de Avaliação
 <hr>
 
 1. Conformidade da solução desenvolvida com o problema proposto
