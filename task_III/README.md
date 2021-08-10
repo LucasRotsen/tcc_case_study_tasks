@@ -1,27 +1,35 @@
 # Classificação de _issues_ de repositórios do _GitHub_
-<hr>
 
 ## Integração do Modelo
 
 ### Introdução
 <hr>
 
->* Descrição geral do que deve ser feito, quais dados devem ser minerados, de onde, etcs
->* O que os alunos devem alcançar? Pode ser em formato de perguntas, por exemplo
+Segundo pesquisa conduzida em 2019 pela [VentureBeat](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/), 87% dos modelos de Machine Learning desenvolvidos não passam da fase de experimentação, ou seja, nunca entregam valor real ao cliente. 
+
+Embora seja possível fazer predições em tempo real com o nosso modelo, ele ainda não é particularmente útil até que outros usuários e aplicações possam consumir os seus resultados. 
+
+Existem diversas estratégias para "servir" modelos de Machine Learning, dentre elas:
+* Embutir o modelo em uma aplicação
+* Servir o modelo através de uma API
+* Utilizar o modelo salvo de forma padronizada como uma biblioteca
+
+A escolha e a implementação dessa estratégia é parte do que chamamos de [MLOps](https://towardsdatascience.com/what-is-mlops-everything-you-must-know-to-get-started-523f2d0b8bd8), que consiste em um conjunto de práticas que têm como objetivo implantar e manter modelos de Machine Learning em produção de maneira confiável e eficiente. 
 
 ### Objetivo
 <hr>
 
-O objetivo desta tarefa é desenvolver uma API REST para servir o modelo desenvolvido na etapa anterior. A API desenvolvida
-deverá conter um único endpoint, que receberá o título e o corpo de uma _issue_ e retornará o label desta issue, conforme
-classificado pelo modelo desenvolvido.
+O objetivo desta tarefa é encapsular o modelo desenvolvido em uma aplicação, para que os resultados deste possam ser consumidos por outros usuários.
+
+O seu programa deverá receber como parâmetro o Título e o Corpo de uma _issue_, e deverá retornar para o usuário o label atribuído pelo modelo de classificação.
 
 ## Entregáveis
 <hr>
 
-Deverá ser entregue ...
+Deverá ser entregue o link para o repositório do GitHub contendo o código, bem como um README contendo as informações de como executá-lo.
 
 ## Critérios de Avaliação
 <hr>
 
-1. ...
+1. Conformidade da solução desenvolvida com o que foi especificado no objetivo
+2. Execução correta do programa
