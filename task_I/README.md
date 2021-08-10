@@ -32,7 +32,7 @@ RQ 05: Dado o resultado da RQ 03, é possível diferenciar o rótulo de uma issu
 <hr>
 
 Deverá ser entregue o arquivo contendo o caderno do Jupyter Notebook (.ipynb) desenvolvido, ou um link para acessá-lo
-através do GitHub.
+através do GitHub. O resultado da execução de cada uma das células deverá estar disponível para visualização.
 
 ### Critérios de Avaliação
 <hr>
