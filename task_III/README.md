@@ -23,12 +23,12 @@ O objetivo desta tarefa é encapsular o modelo desenvolvido em uma aplicação, 
 
 O seu programa deverá receber como parâmetro o Título e o Corpo de uma _issue_, e deverá retornar para o usuário o label atribuído pelo modelo de classificação.
 
-## Entregáveis
+### Entregáveis
 <hr>
 
 Deverá ser entregue o link para o repositório do GitHub contendo o código, bem como um README contendo as informações de como executá-lo.
 
-## Critérios de Avaliação
+### Critérios de Avaliação
 <hr>
 
 1. Conformidade da solução desenvolvida com o que foi especificado no objetivo
