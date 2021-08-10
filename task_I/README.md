@@ -5,26 +5,9 @@
 ### Introdução
 <hr>
 
->* Descrição geral do que deve ser feito, quais dados devem ser minerados, de onde, etcs
->* O que os alunos devem alcançar? Pode ser em formato de perguntas, por exemplo
+A Análise Exploratória de Dados, antigamente chamada apenas de Estatística Descritiva, constitui o que a maioria das pessoas entende como Estatística, e inconscientemente usa no dia a dia. Consiste em **resumir** e **organizar** os dados coletados através de tabelas, gráficos ou medidas numéricas, e a partir dos dados resumidos procurar alguma regularidade ou padrão nas observações (**interpretar** os dados)¹.
 
-### Dataset
-<hr>
-
-Para realização do projeto, utilizaremos o dataset [GitHub Bugs Prediction](https://www.kaggle.com/anmolkumar/github-bugs-prediction/version/1),
-disponibilizado na plataforma da comunidade [Kaggle](https://www.kaggle.com/).
-
-O dataset é composto por três colunas:
-
-* **Title** - O título da Issue do GitHub
-* **Body**  - O corpo da Issue do GitHub  
-* **Label** - Representa o rótulo daquela issue (0 - Bug; 1 - Feature; 2 - Question)
-
-No arquivo _zip_ disponibilizado no repositório, encontra-se o arquivo:
-
-* **Issues.json** - 150000 linhas x 3 colunas
-
-Este arquivo contém a amostra do dataset que deverá ser utilizada para a realização desta tarefa.
+(¹) - Trecho retirado de [INE 7001 Estatística para Administradores](https://www.inf.ufsc.br/~marcelo.menezes.reis/Caps1_e_2.pdf) - Página 7 - Acesso em 09/08/2021 às 22:23.
 
 ### Objetivo
 <hr>
@@ -45,13 +28,13 @@ RQ 04: Quais são as 20 palavras mais comuns nas issues de cada um dos rótulos 
 
 RQ 05: Dado o resultado da RQ 03, é possível diferenciar o rótulo de uma issue pelas palavras presentes em seu texto?
 
-## Entregáveis
+### Entregáveis
 <hr>
 
 Deverá ser entregue o arquivo contendo o caderno do Jupyter Notebook (.ipynb) desenvolvido, ou um link para acessá-lo
 através do GitHub.
 
-## Critérios de Avaliação
+### Critérios de Avaliação
 <hr>
 
 1. Respostas corretas às perguntas de pesquisa
