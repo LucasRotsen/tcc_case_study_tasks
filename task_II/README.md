@@ -1,28 +1,31 @@
 # Classificação de _issues_ de repositórios do _GitHub_
-<hr>
 
 ## Desenvolvimento do modelo
 
 ### Introdução
 <hr>
 
->* Descrição geral do que deve ser feito, quais dados devem ser minerados, de onde, etcs
->* O que os alunos devem alcançar? Pode ser em formato de perguntas, por exemplo
+Reconhecida como a etapa mais "excitante" do dia-a-dia de um Cientista de Dados, a fase de Desenvolvimento do Modelo é comumente a mais curta do projeto. Nesta etapa, todo o conhecimento adquirido durante a Análise Exploratória dos Dados é utilizado para construção, treinamento e avaliação de modelos (preditivos ou prescritivos).
 
 ### Objetivo
 <hr>
 
-Nesta etapa, construiremos um modelo de _Classificação Binária de Issues_.
-Para isso, as seguintes etapas se fazem necessárias: 
+Nesta etapa, construiremos um **Modelo de Classificação Binária de Issues**. Para isso, utilizaremos a biblioteca _[Simple Transformers](https://simpletransformers.ai/)_, que provê uma interface simplificada para o treinamento de modelos de aprendizado profundo para Processamento de Linguagem Natural (NLP).
 
-1. ...
+Para a realização desta tarefa, as seguintes etapas se fazem necessárias: 
+
+1. Pré-processamento e limpeza dos dados
+2. Construção do modelo
+3. Treinamento do modelo
+4. Avaliação do modelo
 
 ## Entregáveis
 <hr>
 
-Deverá ser entregue ...
+Deverá ser entregue o arquivo contendo o caderno do Jupyter Notebook (.ipynb) desenvolvido, ou um link para acessá-lo através do GitHub. O resultado da execução de cada uma das células deverá estar disponível para visualização.
 
 ## Critérios de Avaliação
 <hr>
 
-1. ...
+1. Conformidade da solução desenvolvida com as etapas definidas no objetivo
+2. ...
