@@ -7,7 +7,7 @@
 
 Segundo pesquisa conduzida em 2019 pela [VentureBeat](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/), 87% dos modelos de Machine Learning desenvolvidos não passam da fase de experimentação, ou seja, nunca entregam valor real ao cliente. 
 
-Embora seja possível fazer predições em tempo real com o nosso modelo, ele ainda não é particularmente útil até que outros usuários e aplicações possam consumir os seus resultados. 
+Embora seja possível fazer predições em tempo real com o nosso modelo através do _Jupyter Notebook_, ele ainda não é particularmente útil até que outros usuários e aplicações possam consumir os seus resultados. 
 
 Existem diversas estratégias para "servir" modelos de Machine Learning, dentre elas:
 * Embutir o modelo em uma aplicação
@@ -32,4 +32,5 @@ Deverá ser entregue o link para o repositório do GitHub contendo o código, be
 <hr>
 
 1. Conformidade da solução desenvolvida com o que foi especificado no objetivo
-2. Execução correta do programa
+2. Assertividade das instruções para execução do programa
+3. Execução correta do programa
