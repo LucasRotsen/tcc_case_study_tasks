@@ -14,7 +14,7 @@ A Análise Exploratória de Dados, antigamente chamada apenas de Estatística De
 
 O objetivo desta etapa é obter um melhor entendimento dos dados, extraindo informações relevantes através da
 utilização de técnicas e ferramentas de análise descritiva. Esta fase inclui, por exemplo, a construção de visualizações
-e o cálculo de medidas de tendência central. Essas informações serão posteriormente utilizadas na fase de Desenvolvimento do Modelo. 
+e o cálculo de medidas de tendência central. Essas informações são posteriormente utilizadas na fase de Desenvolvimento do Modelo. 
 
 A partir da sua análise, você deverá responder:
 
