@@ -5,7 +5,7 @@
 ### Introdução
 <hr>
 
-Reconhecida como a etapa mais "excitante" do dia-a-dia de um Cientista de Dados, a fase de Desenvolvimento do Modelo é comumente a mais curta do projeto. Nesta etapa, todo o conhecimento adquirido durante a Análise Exploratória dos Dados é utilizado para construção, treinamento e avaliação de modelos (preditivos ou prescritivos).
+Reconhecida como a etapa mais "excitante" do dia-a-dia de um Cientista de Dados, a fase de Desenvolvimento do Modelo é comumente a mais curta do projeto. Nesta etapa, todo o conhecimento adquirido durante a Análise Exploratória dos Dados é utilizado para construção de modelos preditivos, bem como o seu treinamento e avaliação.
 
 ### Objetivo
 <hr>
