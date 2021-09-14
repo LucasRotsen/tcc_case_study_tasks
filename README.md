@@ -3,9 +3,9 @@
 ### Introdução
 <hr>
 
-Repositórios do GitHub possuem um espaço dedicado às _Issues_. _Issues_ são tópicos submetidos por usuários finais e pessoas que contribuem com um repositório para reportar problemas encontrados, fazer perguntas, reportar vulnerabilidades e etc.
+Repositórios do GitHub possuem um espaço dedicado às _Issues_. _Issues_ são tópicos submetidos por usuários e pessoas que contribuem com um repositório, e servem para reportar problemas encontrados, fazer perguntas, reportar vulnerabilidades e etc.
 
-Um exemplo que podemos analisar é a página de issues do [Repositório do React](https://github.com/facebook/react/issues). Note que algumas _issues_ estão rotuladas com um _label_ (exemplo: 'Type: Bug'), porém, muitas das vezes, esse _label_ precisa ser colocado manualmente pelo usuário que está submetendo a _issue_. Isso acaba gerando uma situação em que muitos dos _bugs_ reportados não são rotulados da forma correta, acarretando muitas vezes em problemas que passam despercebidos.
+Um exemplo que podemos analisar é a página de issues do [Repositório do React](https://github.com/facebook/react/issues). Note que algumas _issues_ estão rotuladas com um _label_ (exemplo: 'Type: Bug'), porém, muitas das vezes, esse _label_ precisa ser colocado manualmente pelo usuário que está submetendo a _issue_. Uma vez que as _issues_ não são rotulados da forma correta, muitos dos _bugs_ reportados pelos usuários e contribuidores não são identificados pelos mantenedores do repositório.
 
 O objetivo deste projeto é criar um mecanismo que identifique se uma issue reporta um bug ou não, para que futuramente, as _Issues_ possam ser classificadas automaticamente. Deste modo, os desenvolvedores responsáveis pelo repositório serão capazes de filtrar de forma mais eficaz os bugs reportados.
 
