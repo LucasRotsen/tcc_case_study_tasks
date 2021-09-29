@@ -14,28 +14,25 @@ A Análise Exploratória de Dados, antigamente chamada apenas de Estatística De
 
 O objetivo desta etapa é obter um melhor entendimento dos dados, extraindo informações relevantes através da
 utilização de técnicas e ferramentas de análise descritiva. Esta fase inclui, por exemplo, a construção de visualizações
-e o cálculo de medidas de tendência central. Essas informações são posteriormente utilizadas na fase de Desenvolvimento do Modelo. 
+e o cálculo de medidas de tendência central. Essas informações e insights poderão ser posteriormente utilizadas na fase de Desenvolvimento do Modelo. 
 
-A partir da sua análise, você deverá responder:
+Para esta tarefa, você deverá elaborar e responder - utilizando técnicas de análise descritiva - **pelo menos cinco** perguntas de pesquisa (RQs)
+sobre os dados disponibilizados. Lembre-se que dúvidas em relação à validade da RQ elaborada (do ponto de vista do negócio) podem ser sanadas com o
+cliente (figura representada pela Fabíola). 
 
-RQ 01: Como os diferentes rótulos das _issues_ estão distribuídos no dataset de treinamento? Mostre os valores em porcentagem.
+**Dica 1:** elabore todas as RQs primeiro e depois, caso ainda tenha dúvidas acerca da validade das mesmas, recorra ao cliente.
 
-RQ 02: Qual é a mediana do número de palavras das issues de cada um dos rótulos presentes no dataset de treinamento?
-
-RQ 03: Dado o resultado da RQ 02, é possível observar diferenças claras entre o número de palavras das issues de cada rótulo?
-
-RQ 04: Quais são as 20 palavras mais comuns nas issues de cada um dos rótulos presentes no dataset de treinamento?
-
-RQ 05: Dado o resultado da RQ 03, é possível diferenciar o rótulo de uma issue pelas palavras presentes em seu texto?
+**Dica 2:** sempre que possível, utilize gráficos para melhorar a visualização das respostas às RQs elaboradas
 
 ### Entregáveis
 <hr>
 
-Deverá ser entregue o arquivo contendo o caderno do Jupyter Notebook (.ipynb) desenvolvido, ou um link para acessá-lo
-através do GitHub. O resultado da execução de cada uma das células deverá estar disponível para visualização.
+Deverá ser entregue um arquivo _zip_ contendo o caderno do Jupyter Notebook (.ipynb) desenvolvido. O resultado da execução de cada uma das células 
+deverá estar disponível para visualização.
 
 ### Critérios de Avaliação
 <hr>
 
-1. Respostas corretas às perguntas de pesquisa
-2. Riqueza da análise realizada nas perguntas de pesquisa que são discursivas
+1. Elaboração das **cinco** perguntas de pesquisa
+2. Riqueza da análise construída em cima das respostas às perguntas de pesquisa elaboradas
+3. Organização do notebook

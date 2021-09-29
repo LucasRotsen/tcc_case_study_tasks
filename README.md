@@ -12,18 +12,18 @@ O objetivo deste projeto é criar um mecanismo que identifique se uma issue repo
 ### Dataset
 <hr>
 
-Para realização do projeto, utilizaremos o dataset [GitHub Bugs Prediction](https://www.kaggle.com/anmolkumar/github-bugs-prediction/version/1),
+Para realização do projeto, utilizaremos uma amostra pré-processada do dataset [GitHub Bugs Prediction](https://www.kaggle.com/anmolkumar/github-bugs-prediction/version/1),
 disponibilizado na plataforma da comunidade [Kaggle](https://www.kaggle.com/).
 
 O dataset é composto por três colunas:
 
 * **Title** - O título da Issue do GitHub
 * **Body**  - O corpo da Issue do GitHub  
-* **Label** - Representa o rótulo daquela issue (0 - Bug; 1 - Feature; 2 - Question)
+* **Label** - Representa o rótulo daquela issue (Bug; Feature; Question)
 
-No [arquivo _zip_](data/tcc_sample.zip) disponibilizado no repositório, encontra-se o arquivo:
+No [arquivo](data/task_sample.csv) disponibilizado no repositório, encontra-se o arquivo:
 
-* **tcc_sample.csv** - 150000 linhas x 3 colunas
+* **task_sample.csv** - contendo 15000 linhas e 3 colunas
 
 Este arquivo contém a amostra do dataset que deverá ser utilizada para a realização desta tarefa.
 
@@ -31,6 +31,6 @@ Este arquivo contém a amostra do dataset que deverá ser utilizada para a reali
 <hr>
 
 * [Análise Exploratória dos Dados](task_I/README.md)
-* [Desenvolvimento do Modelo](task_II/README.md)
-* [Integração do Modelo](task_III/README.md)
-* [[Bônus] Operacionalização do Modelo](task_IV/README.md)
+* [Desenvolvimento do Modelo]()
+* [Integração do Modelo]()
+* [[Bônus] Operacionalização do Modelo]()
