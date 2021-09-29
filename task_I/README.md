@@ -36,3 +36,7 @@ deverá estar disponível para visualização.
 1. Elaboração das **cinco** perguntas de pesquisa
 2. Riqueza da análise construída em cima das respostas às perguntas de pesquisa elaboradas
 3. Organização do notebook
+
+### Formulário de percepção
+<hr>
+Responda esse [questionário de percepção](https://forms.gle/vQT58eALgvJPFu8m9) sobre o desenvolvimento desta tarefa até a próxima aula
