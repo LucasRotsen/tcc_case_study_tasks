@@ -2,15 +2,17 @@
 
 ## Análise Exploratória dos Dados (EDA)
 
-### Introdução
 <hr>
+
+### Introdução
 
 A Análise Exploratória de Dados, antigamente chamada apenas de Estatística Descritiva, constitui o que a maioria das pessoas entende como Estatística, e inconscientemente usa no dia a dia. Consiste em **resumir** e **organizar** os dados coletados através de tabelas, gráficos ou medidas numéricas, e a partir dos dados resumidos procurar alguma regularidade ou padrão nas observações (**interpretar** os dados)¹.
 
 (¹) - Trecho retirado de [INE 7001 Estatística para Administradores](https://www.inf.ufsc.br/~marcelo.menezes.reis/Caps1_e_2.pdf) - Página 7 - Acesso em 09/08/2021 às 22:23.
 
-### Objetivo
 <hr>
+
+### Objetivo
 
 O objetivo desta etapa é obter um melhor entendimento dos dados, extraindo informações relevantes através da
 utilização de técnicas e ferramentas de análise descritiva. Esta fase inclui, por exemplo, a construção de visualizações
@@ -24,20 +26,23 @@ cliente (figura representada pela Fabíola).
 
 **Dica 2:** sempre que possível, utilize gráficos para melhorar a visualização das respostas às RQs elaboradas
 
-### Entregáveis
 <hr>
+
+### Entregáveis
 
 Deverá ser entregue um arquivo _zip_ contendo o caderno do Jupyter Notebook (.ipynb) desenvolvido. O resultado da execução de cada uma das células 
 deverá estar disponível para visualização.
 
-### Critérios de Avaliação
 <hr>
+
+### Critérios de Avaliação
 
 1. Elaboração das **cinco** perguntas de pesquisa
 2. Riqueza da análise construída em cima das respostas às perguntas de pesquisa elaboradas
 3. Organização do notebook
 
-### Formulário de percepção
 <hr>
+
+Como foi a experiência?
 
 Responda esse [questionário de percepção](https://forms.gle/vQT58eALgvJPFu8m9) sobre o desenvolvimento desta tarefa até a próxima aula
