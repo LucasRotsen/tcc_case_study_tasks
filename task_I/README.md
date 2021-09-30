@@ -31,7 +31,8 @@ cliente (figura representada pela Fabíola).
 ### Entregáveis
 
 Deverá ser entregue um arquivo _zip_ contendo o caderno do Jupyter Notebook (.ipynb) desenvolvido. O resultado da execução de cada uma das células 
-deverá estar disponível para visualização.
+deverá estar disponível para visualização. Adicione as RQs no notebook a ser entregue (uma dica é utilizar o Markdown).
+
 
 <hr>
 
