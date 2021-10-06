@@ -34,3 +34,8 @@ Deverá ser entregue o arquivo contendo o caderno do Jupyter Notebook (.ipynb) d
 
 1. Organização geral do notebook
 2. Conformidade da solução desenvolvida com o problema proposto
+
+### Como foi a experiência?
+<hr>
+
+Responda esse [questionário de percepção](https://forms.gle/oiJMNLUAQzkwPp8T7) sobre o desenvolvimento desta tarefa até a próxima aula, dia 13/10/2021.
