@@ -42,8 +42,12 @@ deverá estar disponível para visualização. Adicione as RQs no notebook a ser
 2. Riqueza da análise construída em cima das respostas às perguntas de pesquisa elaboradas
 3. Organização do notebook
 
+### Como foi a experiência?
 <hr>
 
-### Como foi a experiência?
-
 Responda esse [questionário de percepção](https://forms.gle/vQT58eALgvJPFu8m9) sobre o desenvolvimento desta tarefa até a próxima aula
+
+### Gabarito da tarefa
+<hr>
+
+[Análise Exploratória dos dados (EDA)](Gabarito_TaskI.ipynb)
