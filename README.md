@@ -31,6 +31,6 @@ Este arquivo contém a amostra do dataset que deverá ser utilizada para a reali
 <hr>
 
 * [Análise Exploratória dos Dados](task_I/README.md)
-* [Desenvolvimento do Modelo]()
+* [Desenvolvimento do Modelo](task_II/README.md)
 * [Integração do Modelo]()
 * [[Bônus] Operacionalização do Modelo]()
