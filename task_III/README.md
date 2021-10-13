@@ -47,3 +47,8 @@ Deverá ser entregue no Canvas um arquivo ZIP contendo o código e um README con
 1. Conformidade da solução desenvolvida com o que foi especificado no objetivo
 2. Assertividade das instruções para execução do programa
 3. Execução correta do programa
+
+### Como foi a experiência?
+<hr>
+
+Responda esse [questionário de percepção](https://forms.gle/xeQ9MzEtw8rxQ1caA) sobre o desenvolvimento desta tarefa até a próxima aula
