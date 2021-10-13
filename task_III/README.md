@@ -28,7 +28,7 @@ se trata de um BUG ou não.
 
 **OBS 2:** a sua aplicação deverá ser desenvolvida fora do ambiente do Google Colab.
 
-**Dica: Como carregar um modelo pré-treinado:**
+**[Dica: Como carregar um modelo pré-treinado](https://simpletransformers.ai/docs/usage/#loading-a-local-save)**
 
 ```python
 model = ClassificationModel(

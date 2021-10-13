@@ -24,6 +24,28 @@ Na fase de Avaliação do modelo, você deverá testar o modelo desenvolvido com
 
 **Dica 2:** finalizado o treinamento, guarde a pasta "outputs" gerada pelo Simple Transformers. Ela será necessária para a tarefa da próxima semana.
 
+**Dica 3: Como montar o Google Drive dentro do Google Colab**
+
+```python
+"""
+* Execute o código abaixo na primeira célular do Notebook, antes de iniciar a codificação
+* Este código irá montar o seu Google Drive dentro da pasta '/content/drive'
+"""
+from google.colab import drive
+drive.mount('/content/drive')
+```
+
+**Dica 4: Como salvar o modelo treinado no Google Drive**
+
+```python
+"""
+* O código abaixo deve ser executado com o Google Drive montado (ver Dica 3)
+* Código a ser executado na célula de treinamento do modelo
+"""
+# Célula de treinamento do modelo
+model.train_model(train, output_dir='/content/drive/MyDrive/outputs/')
+```
+
 ### Entregáveis
 <hr>
 
