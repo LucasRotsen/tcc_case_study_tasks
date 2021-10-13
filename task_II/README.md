@@ -39,3 +39,8 @@ Deverá ser entregue o arquivo contendo o caderno do Jupyter Notebook (.ipynb) d
 <hr>
 
 Responda esse [questionário de percepção](https://forms.gle/oiJMNLUAQzkwPp8T7) sobre o desenvolvimento desta tarefa até a próxima aula, dia 13/10/2021.
+
+### Gabarito da tarefa
+<hr>
+
+[Desenvolvimento do Modelo](Gabarito_TaskII.ipynb)
