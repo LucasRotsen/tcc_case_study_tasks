@@ -31,8 +31,15 @@ se trata de um BUG ou não.
 **[Dica: Como carregar um modelo pré-treinado](https://simpletransformers.ai/docs/usage/#loading-a-local-save)**
 
 ```python
+"""
+* Para executar o código abaixo, é necessário ter tantoo SimpleTransformers quanto o Torch instalados
+* pip install simpletransformers torch
+"""
+from simpletransformers.classification import ClassificationModel
+
 model = ClassificationModel(
-    "roberta", "outputs/best_model"
+    "roberta", "outputs/checkpoint-1313-epoch-1",
+    use_cuda=False
 )
 ```
 
