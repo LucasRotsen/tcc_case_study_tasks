@@ -32,7 +32,7 @@ se trata de um BUG ou não.
 
 ```python
 """
-* Para executar o código abaixo, é necessário ter tantoo SimpleTransformers quanto o Torch instalados
+* Para executar o código abaixo, é necessário ter tanto SimpleTransformers quanto o Torch instalados
 * pip install simpletransformers torch
 """
 from simpletransformers.classification import ClassificationModel
