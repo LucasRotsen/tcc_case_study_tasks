@@ -42,7 +42,6 @@ drive.mount('/content/drive')
 * O código abaixo deve ser executado com o Google Drive montado (ver Dica 3)
 * Código a ser executado na célula de treinamento do modelo
 """
-# Célula de treinamento do modelo
 model.train_model(train, output_dir='/content/drive/MyDrive/outputs/')
 ```
 
