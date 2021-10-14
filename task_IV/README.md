@@ -1,6 +1,8 @@
 # Classificação de _issues_ de repositórios do _GitHub_
 
 ## [BÔNUS] Operacionalização do Modelo
+
+### Introdução
 <hr>
 
 Segundo pesquisa conduzida em 2019 pela [VentureBeat](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/), 87% dos modelos de Machine Learning desenvolvidos não passam da fase de experimentação, ou seja, nunca entregam valor real ao cliente. 
