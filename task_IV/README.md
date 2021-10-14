@@ -2,20 +2,6 @@
 
 ## [BÔNUS] Operacionalização do Modelo
 
-### Introdução
-<hr>
-
-Segundo pesquisa conduzida em 2019 pela [VentureBeat](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/), 87% dos modelos de Machine Learning desenvolvidos não passam da fase de experimentação, ou seja, nunca entregam valor real ao cliente. 
-
-Embora seja possível fazer predições em tempo real com o nosso modelo através do _Jupyter Notebook_, ele ainda não é particularmente útil até que outros usuários e aplicações possam consumir os seus resultados. 
-
-Existem diversas estratégias para "servir" modelos de Machine Learning, dentre elas:
-* Embutir o modelo em uma aplicação
-* Servir o modelo através de uma API
-* Utilizar o modelo salvo de forma padronizada como uma biblioteca
-
-A escolha e a implementação dessa estratégia é parte do que chamamos de [MLOps](https://towardsdatascience.com/what-is-mlops-everything-you-must-know-to-get-started-523f2d0b8bd8), que consiste em um conjunto de práticas que têm como objetivo implantar e manter modelos de Machine Learning em produção de maneira confiável e eficiente.
-
 ### Objetivo
 <hr>
 
@@ -26,7 +12,8 @@ A API desenvolvida deverá conter um único endpoint, que receberá dois parâme
 * **issueNumber**  - O número da _issue_ dentro do repositório do GitHub
 
 A partir desses parâmetros, a sua aplicação deverá fazer uma consulta à [API do GitHub](https://docs.github.com/pt/graphql) para retornar o Título (title) e o Corpo (body)
-da _issue_ pesquisada. Com esses dados em mãos, a sua API deverá utilizar o modelo desenvolvido para retornar para o usuário a classificação da _issue_ em questão (BUG ou NÃO BUG).
+da _issue_ pesquisada. Com esses dados em mãos, a sua API deverá utilizar o modelo desenvolvido para retornar para o usuário uma mensagem informando se _issue_ em questão se 
+trata ou não de um _BUG_.
 
 Finalizada a implementação da API, você deverá torná-la acessível para outros usuários e aplicações através do deploy em uma plataforma de nuvem ou outra abordagem de sua escolha.
 
